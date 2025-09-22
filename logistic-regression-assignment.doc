@@ -1,0 +1,274 @@
+{\rtf1\ansi\ansicpg1252\deff0\uc1
+{\fonttbl
+{\f0\fnil\fcharset0\fprq0\fttruetype Times New Roman;}
+{\f1\fnil\fcharset0\fprq0\fttruetype Liberation Sans;}
+{\f2\fnil\fcharset0\fprq0\fttruetype Courier New;}}
+{\colortbl
+\red0\green0\blue0;
+\red255\green255\blue255;
+\red255\green255\blue255;}
+{\stylesheet
+{\*\cs57\sbasedon12 Subtitle Char;}
+{\*\cs36\sbasedon12 Intense Emphasis;}
+{\s16\sbasedon44 Endnote Text;}
+{\s8\fi-431\li2160\sbasedon44\snext44 Contents 3;}
+{\*\cs15\fs20\super Endnote Reference;}
+{\s19\fs20\sbasedon44 Footnote Text;}
+{\*\cs39\sbasedon12 Intense Reference;}
+{\*\cs26\sbasedon12 Heading 3 Char;}
+{\*\cs52\sbasedon12 Quote Char;}
+{\*\cs38\sbasedon12 Intense Quote Char;}
+{\s62\fi-431\li720\sbasedon49 Upper Case List;}
+{\s58\fi-431\li720 Tick List;}
+{\s10\qc\sb240\sa120\f1\fs32\b\sbasedon44\snext44 Contents Header;}
+{\s49\fi-431\li720 Numbered List;}
+{\s40\li720\sbasedon64 List Paragraph;}
+{\s44\sl277\slmult1\sa160\f0\fs24\lang1025\sbasedon44 Normal;}
+{\s5\tx1584\sbasedon46\snext44 Chapter Heading;}
+{\*\cs22\sbasedon12 Heading 1 Char;}
+{\s61\fi-431\li720 Triangle List;}
+{\*\cs60\f0\fs56\sbasedon12 Title Char;}
+{\s14\fi-288\li288\sbasedon44 Endnote;}
+{\s47\tx431\sbasedon23\snext44 Numbered Heading 2;}
+{\s17\fi-288\li288\fs20\sbasedon44 Footnote;}
+{\s43\sbasedon44 No List;}
+{\s56\sbasedon64\snext64 Subtitle;}
+{\s37\qc\li864\ri864\sb360\sa360\sbasedon64\snext64 Intense Quote;}
+{\s55\fi-431\li720 Star List;}
+{\s9\fi-431\li2880\sbasedon44\snext44 Contents 4;}
+{\s41\fi-431\li720\sbasedon49 Lower Case List;}
+{\*\cs30\sbasedon12 Heading 6 Char;}
+{\s59\sl240\slmult1\sa80\f0\fs56\sbasedon64\snext64 Title;}
+{\s20\fi-431\li720 Hand List;}
+{\*\cs31\sbasedon12 Heading 7 Char;}
+{\s3\fi-431\li720 Box List;}
+{\s1\fi-431\li720 Arrowhead List;}
+{\*\cs32\sbasedon12 Heading 8 Char;}
+{\*\cs33\sbasedon12 Heading 9 Char;}
+{\s34\fi-431\li720 Heart List;}
+{\*\cs12\sbasedon44 Default Paragraph Font;}
+{\s4\fi-431\li720 Bullet List;}
+{\s54\fi-431\li720 Square List;}
+{\*\cs28\sbasedon12 Heading 4 Char;}
+{\s6\fi-431\li720\sbasedon44\snext44 Contents 1;}
+{\s7\fi-431\li1440\sbasedon44\snext44 Contents 2;}
+{\s46\tx431\sbasedon21\snext44 Numbered Heading 1;}
+{\s51\qc\sb160\sbasedon64\snext64 Quote;}
+{\s48\tx431\sbasedon25\snext44 Numbered Heading 3;}
+{\*\cs24\sbasedon12 Heading 2 Char;}
+{\s73\sbasedon64\snext64 heading 9;}
+{\s13\fi-431\li720 Diamond List;}
+{\s70\sb40\sbasedon64\snext64 heading 6;}
+{\*\cs18\fs20\super Footnote Reference;}
+{\s53\tx1584\sbasedon46\snext44 Section Heading;}
+{\s64\sbasedon44 _Normal;}
+{\s50\f2\sbasedon44 Plain Text;}
+{\s68\sb80\sa40\sbasedon64\snext64 heading 4;}
+{\s23\sb440\sa60\f1\fs28\b\sbasedon44\snext44 Heading 2;}
+{\s35\fi-431\li720 Implies List;}
+{\s45\sbasedon44 Normal Table;}
+{\s71\sb40\sbasedon64\snext64 heading 7;}
+{\s42\fi-431\li720\sbasedon44 Lower Roman List;}
+{\s63\fi-431\li720\sbasedon49 Upper Roman List;}
+{\*\cs29\sbasedon12 Heading 5 Char;}
+{\s65\sb360\sa80\sbasedon64\snext64 heading 1;}
+{\s66\sb160\sa80\sbasedon64\snext64 heading 2;}
+{\s67\sb160\sa80\sbasedon64\snext64 heading 3;}
+{\s21\sb440\sa60\f1\fs34\b\sbasedon44\snext44 Heading 1;}
+{\s69\sb80\sa40\sbasedon64\snext64 heading 5;}
+{\s25\sb440\sa60\f1\fs24\b\sbasedon44\snext44 Heading 3;}
+{\s27\sb440\sa60\f1\fs24\b\sbasedon44\snext44 Heading 4;}
+{\s72\sbasedon64\snext64 heading 8;}
+{\s11\fi-431\li720 Dashed List;}
+{\s2\li1440\ri1440\sa120\sbasedon44 Block Text;}}
+{\*\listtable
+{\list\listtemplateid1000{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'02\'00.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'04\'00.\'01.;}{\levelnumbers\'01\'03;}}{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'06\'00.\'01.\'02.;}{\levelnumbers\'01\'03\'05;}}{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'08\'00.\'01.\'02.\'03.;}{\levelnumbers\'01\'03\'05\'07;}}{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'0a\'00.\'01.\'02.\'03.\'04.;}{\levelnumbers\'01\'03\'05\'07\'09;}}{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'0c\'00.\'01.\'02.\'03.\'04.\'05.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b;}}{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'0e\'00.\'01.\'02.\'03.\'04.\'05.\'06.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d;}}{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'10\'00.\'01.\'02.\'03.\'04.\'05.\'06.\'07.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d\'0f;}}{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'12\'00.\'01.\'02.\'03.\'04.\'05.\'06.\'07.\'08.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d\'0f\'11;}}\listid100}
+{\list\listtemplateid1001{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u8226 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u8226 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}\listid110}
+{\list\listtemplateid1002{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u8226 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u8226 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}\listid120}
+{\list\listtemplateid1003{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u8226 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u8226 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}\listid130}
+{\list\listtemplateid1004{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u8226 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u8226 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}\listid140}
+{\list\listtemplateid1005{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u8226 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u8226 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}\listid150}
+{\list\listtemplateid1006{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u8226 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u8226 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}\listid160}
+{\list\listtemplateid1007{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'02\'00.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelstartat1\levelspace0\levelfollow0{\leveltext\'04\'00.\'01.;}{\levelnumbers\'01\'03;}}{\listlevel\levelnfc2\levelstartat1\levelspace0\levelfollow0{\leveltext\'06\'00.\'01.\'02.;}{\levelnumbers\'01\'03\'05;}}{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'08\'00.\'01.\'02.\'03.;}{\levelnumbers\'01\'03\'05\'07;}}{\listlevel\levelnfc4\levelstartat1\levelspace0\levelfollow0{\leveltext\'0a\'00.\'01.\'02.\'03.\'04.;}{\levelnumbers\'01\'03\'05\'07\'09;}}{\listlevel\levelnfc2\levelstartat1\levelspace0\levelfollow0{\leveltext\'0c\'00.\'01.\'02.\'03.\'04.\'05.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b;}}{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'0e\'00.\'01.\'02.\'03.\'04.\'05.\'06.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d;}}{\listlevel\levelnfc4\levelstartat1\levelspace0\levelfollow0{\leveltext\'10\'00.\'01.\'02.\'03.\'04.\'05.\'06.\'07.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d\'0f;}}{\listlevel\levelnfc2\levelstartat1\levelspace0\levelfollow0{\leveltext\'12\'00.\'01.\'02.\'03.\'04.\'05.\'06.\'07.\'08.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d\'0f\'11;}}\listid170}
+{\list\listtemplateid1008{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u8226 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u8226 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}\listid180}
+{\list\listtemplateid1009{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u8226 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u8226 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}\listid190}
+{\list\listtemplateid1010{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u8226 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u8226 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}}\listid1100}}
+{\*\listoverridetable
+{\listoverride\listoverridecount0\listid100\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\ls1}
+{\listoverride\listoverridecount0\listid100\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'04\'00.\'01.;}{\levelnumbers\'01\'03;}\ls2}
+{\listoverride\listoverridecount0\listid100\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'06\'00.\'01.\'02.;}{\levelnumbers\'01\'03\'05;}\ls3}
+{\listoverride\listoverridecount0\listid100\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'08\'00.\'01.\'02.\'03.;}{\levelnumbers\'01\'03\'05\'07;}\ls4}
+{\listoverride\listoverridecount0\listid100\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'0a\'00.\'01.\'02.\'03.\'04.;}{\levelnumbers\'01\'03\'05\'07\'09;}\ls5}
+{\listoverride\listoverridecount0\listid100\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'0c\'00.\'01.\'02.\'03.\'04.\'05.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b;}\ls6}
+{\listoverride\listoverridecount0\listid100\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'0e\'00.\'01.\'02.\'03.\'04.\'05.\'06.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d;}\ls7}
+{\listoverride\listoverridecount0\listid100\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'10\'00.\'01.\'02.\'03.\'04.\'05.\'06.\'07.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d\'0f;}\ls8}
+{\listoverride\listoverridecount0\listid100\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'12\'00.\'01.\'02.\'03.\'04.\'05.\'06.\'07.\'08.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d\'0f\'11;}\ls9}
+{\listoverride\listoverridecount0\listid110\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls10}
+{\listoverride\listoverridecount0\listid110\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls11}
+{\listoverride\listoverridecount0\listid110\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls12}
+{\listoverride\listoverridecount0\listid110\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls13}
+{\listoverride\listoverridecount0\listid110\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls14}
+{\listoverride\listoverridecount0\listid110\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls15}
+{\listoverride\listoverridecount0\listid110\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls16}
+{\listoverride\listoverridecount0\listid110\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls17}
+{\listoverride\listoverridecount0\listid110\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls18}
+{\listoverride\listoverridecount0\listid120\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls19}
+{\listoverride\listoverridecount0\listid120\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls20}
+{\listoverride\listoverridecount0\listid120\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls21}
+{\listoverride\listoverridecount0\listid120\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls22}
+{\listoverride\listoverridecount0\listid120\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls23}
+{\listoverride\listoverridecount0\listid120\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls24}
+{\listoverride\listoverridecount0\listid120\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls25}
+{\listoverride\listoverridecount0\listid120\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls26}
+{\listoverride\listoverridecount0\listid120\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls27}
+{\listoverride\listoverridecount0\listid130\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls28}
+{\listoverride\listoverridecount0\listid130\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls29}
+{\listoverride\listoverridecount0\listid130\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls30}
+{\listoverride\listoverridecount0\listid130\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls31}
+{\listoverride\listoverridecount0\listid130\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls32}
+{\listoverride\listoverridecount0\listid130\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls33}
+{\listoverride\listoverridecount0\listid130\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls34}
+{\listoverride\listoverridecount0\listid130\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls35}
+{\listoverride\listoverridecount0\listid130\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls36}
+{\listoverride\listoverridecount0\listid140\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls37}
+{\listoverride\listoverridecount0\listid140\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls38}
+{\listoverride\listoverridecount0\listid140\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls39}
+{\listoverride\listoverridecount0\listid140\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls40}
+{\listoverride\listoverridecount0\listid140\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls41}
+{\listoverride\listoverridecount0\listid140\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls42}
+{\listoverride\listoverridecount0\listid140\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls43}
+{\listoverride\listoverridecount0\listid140\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls44}
+{\listoverride\listoverridecount0\listid140\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls45}
+{\listoverride\listoverridecount0\listid150\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls46}
+{\listoverride\listoverridecount0\listid150\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls47}
+{\listoverride\listoverridecount0\listid150\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls48}
+{\listoverride\listoverridecount0\listid150\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls49}
+{\listoverride\listoverridecount0\listid150\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls50}
+{\listoverride\listoverridecount0\listid150\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls51}
+{\listoverride\listoverridecount0\listid150\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls52}
+{\listoverride\listoverridecount0\listid150\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls53}
+{\listoverride\listoverridecount0\listid150\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls54}
+{\listoverride\listoverridecount0\listid160\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls55}
+{\listoverride\listoverridecount0\listid160\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls56}
+{\listoverride\listoverridecount0\listid160\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls57}
+{\listoverride\listoverridecount0\listid160\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls58}
+{\listoverride\listoverridecount0\listid160\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls59}
+{\listoverride\listoverridecount0\listid160\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls60}
+{\listoverride\listoverridecount0\listid160\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls61}
+{\listoverride\listoverridecount0\listid160\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls62}
+{\listoverride\listoverridecount0\listid160\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls63}
+{\listoverride\listoverridecount0\listid170\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\ls64}
+{\listoverride\listoverridecount0\listid170\levelnfc4\levelstartat1\levelspace0\levelfollow0{\leveltext\'04\'00.\'01.;}{\levelnumbers\'01\'03;}\ls65}
+{\listoverride\listoverridecount0\listid170\levelnfc2\levelstartat1\levelspace0\levelfollow0{\leveltext\'06\'00.\'01.\'02.;}{\levelnumbers\'01\'03\'05;}\ls66}
+{\listoverride\listoverridecount0\listid170\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'08\'00.\'01.\'02.\'03.;}{\levelnumbers\'01\'03\'05\'07;}\ls67}
+{\listoverride\listoverridecount0\listid170\levelnfc4\levelstartat1\levelspace0\levelfollow0{\leveltext\'0a\'00.\'01.\'02.\'03.\'04.;}{\levelnumbers\'01\'03\'05\'07\'09;}\ls68}
+{\listoverride\listoverridecount0\listid170\levelnfc2\levelstartat1\levelspace0\levelfollow0{\leveltext\'0c\'00.\'01.\'02.\'03.\'04.\'05.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b;}\ls69}
+{\listoverride\listoverridecount0\listid170\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'0e\'00.\'01.\'02.\'03.\'04.\'05.\'06.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d;}\ls70}
+{\listoverride\listoverridecount0\listid170\levelnfc4\levelstartat1\levelspace0\levelfollow0{\leveltext\'10\'00.\'01.\'02.\'03.\'04.\'05.\'06.\'07.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d\'0f;}\ls71}
+{\listoverride\listoverridecount0\listid170\levelnfc2\levelstartat1\levelspace0\levelfollow0{\leveltext\'12\'00.\'01.\'02.\'03.\'04.\'05.\'06.\'07.\'08.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d\'0f\'11;}\ls72}
+{\listoverride\listoverridecount0\listid180\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls73}
+{\listoverride\listoverridecount0\listid180\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls74}
+{\listoverride\listoverridecount0\listid180\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls75}
+{\listoverride\listoverridecount0\listid180\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls76}
+{\listoverride\listoverridecount0\listid180\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls77}
+{\listoverride\listoverridecount0\listid180\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls78}
+{\listoverride\listoverridecount0\listid180\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls79}
+{\listoverride\listoverridecount0\listid180\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls80}
+{\listoverride\listoverridecount0\listid180\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls81}
+{\listoverride\listoverridecount0\listid190\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls82}
+{\listoverride\listoverridecount0\listid190\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls83}
+{\listoverride\listoverridecount0\listid190\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls84}
+{\listoverride\listoverridecount0\listid190\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls85}
+{\listoverride\listoverridecount0\listid190\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls86}
+{\listoverride\listoverridecount0\listid190\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls87}
+{\listoverride\listoverridecount0\listid190\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls88}
+{\listoverride\listoverridecount0\listid190\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls89}
+{\listoverride\listoverridecount0\listid190\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls90}
+{\listoverride\listoverridecount0\listid1100\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls91}
+{\listoverride\listoverridecount0\listid1100\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls92}
+{\listoverride\listoverridecount0\listid1100\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls93}
+{\listoverride\listoverridecount0\listid1100\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls94}
+{\listoverride\listoverridecount0\listid1100\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls95}
+{\listoverride\listoverridecount0\listid1100\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls96}
+{\listoverride\listoverridecount0\listid1100\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls97}
+{\listoverride\listoverridecount0\listid1100\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls98}
+{\listoverride\listoverridecount0\listid1100\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\u9632 ;}{\levelnumbers;}\ls99}}
+
+\kerning0\cf0\ftnbj\fet2\ftnstart1\ftnnar\aftnnar\ftnstart1\aftnstart1\aenddoc\revprop3{\*\rdf}{\info\uc1}\deftab720\viewkind1\paperw11905\paperh16837\margl1440\margr1440\widowctrl
+\sectd\sbknone\colsx360\headery0\footery0\pgncont\ltrsect
+\pard\plain\ltrpar\ql\sa80\s59\sl240\slmult1\itap0{\s59\f0\fs56\lang1025{\*\listtag0}                    Logistic Regression}{\s59\f0\fs56\lang1025{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\lang1033{\*\listtag0}\par}
+{\listtext\pard\fi-360\li408\sa160  	}\pard\plain{\ltrpar\ql\fi-360\li408\sa160\s40{\*\abilist\abilistid170\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle None}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-360\li408\ls64\ilvl0\sl277\slmult1\itap0{\s40\f0\fs24\b\lang1025{\*\listtag0}Data Exploration}{\s40\f0\fs24\lang1025{\*\listtag0}\par}
+}\pard\plain\ltrpar\ql\li408\sa160\s40\sl277\slmult1\itap0{\s40\f0\fs24\lang1025{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\b\lang1033{\*\listtag0}a. Loading the Dataset and Performing EDA}{\f0\fs24\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\lang1033{\*\listtag0}Exploratory Data Analysis (EDA) is the initial step in understanding the structure, patterns, and anomalies within a dataset. It helps identify important variables, data types, outliers, and missing values.}{\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\b\lang1033{\*\listtag0}b. Examining Features, Types, and Summary Statistics}{\f0\fs24\b\lang1033{\*\listtag0}\par}
+{\listtext\pard\fi-360\li720\sa160\bullet 	}\pard\plain{\ltrpar\ql\fi-360\li720\sa160{\*\abilist\abilistid110\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle None}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\sl277\slmult1\itap0\tx720{\f0\fs24\b\lang1033{\*\listtag0}Data Types}{\f0\fs24\lang1033{\*\listtag0}: Categorical, Numerical (Continuous or Discrete).}{\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\fi-360\li720\sa160\bullet 	}\pard\plain{\ltrpar\ql\fi-360\li720\sa160{\*\abilist\abilistid110\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle None}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\sl277\slmult1\itap0\tx720{\f0\fs24\b\lang1033{\*\listtag0}Summary Statistics}{\f0\fs24\lang1033{\*\listtag0}: Mean, Median, Standard Deviation, Min, Max, Quartiles.}{\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\fi-360\li720\sa160\bullet 	}\pard\plain{\ltrpar\ql\fi-360\li720\sa160{\*\abilist\abilistid110\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle None}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\sl277\slmult1\itap0\tx720{\f0\fs24\lang1033{\*\listtag0}df.info() and df.describe() functions help inspect data structure and numerical summaries.}{\f0\fs24\lang1033{\*\listtag0}\par}
+}\pard\plain\ltrpar\ql\li720\sa160\sl277\slmult1\itap0{\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\b\lang1033{\*\listtag0}c. Visualizations}{\f0\fs24\b\lang1033{\*\listtag0}\par}
+{\listtext\pard\fi-360\li720\sa160\bullet 	}\pard\plain{\ltrpar\ql\fi-360\li720\sa160{\*\abilist\abilistid160\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle None}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls55\ilvl0\sl277\slmult1\itap0\tx720{\f0\fs24\b\lang1033{\*\listtag0}Histograms}{\f0\fs24\lang1033{\*\listtag0}: Show the distribution of numerical features.}{\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\fi-360\li720\sa160\bullet 	}\pard\plain{\ltrpar\ql\fi-360\li720\sa160{\*\abilist\abilistid160\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle None}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls55\ilvl0\sl277\slmult1\itap0\tx720{\f0\fs24\b\lang1033{\*\listtag0}Box Plots}{\f0\fs24\lang1033{\*\listtag0}: Identify outliers and compare distributions.}{\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\fi-360\li720\sa160\bullet 	}\pard\plain{\ltrpar\ql\fi-360\li720\sa160{\*\abilist\abilistid160\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle None}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls55\ilvl0\sl277\slmult1\itap0\tx720{\f0\fs24\b\lang1033{\*\listtag0}Pair Plots}{\f0\fs24\lang1033{\*\listtag0}: Examine relationships between features, especially how they vary by the target variable.}{\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\fi-360\li720\sa160\bullet 	}\pard\plain{\ltrpar\ql\fi-360\li720\sa160{\*\abilist\abilistid160\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle None}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls55\ilvl0\sl277\slmult1\itap0\tx720{\f0\fs24\b\lang1033{\*\listtag0}Correlation Heatmap}{\f0\fs24\lang1033{\*\listtag0}: Shows strength and direction of relationships between numerical variables.}{\f0\fs24\lang1033{\*\listtag0}\par}
+}\pard\plain\ltrpar\ql\li720\sa160\sl277\slmult1\itap0{\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\b\lang1033{\*\listtag0} 2. Data Preprocessing}{\f0\fs24\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\b\lang1033{\*\listtag0}a. Handling Missing Values}{\f0\fs24\b\lang1033{\*\listtag0}\par}
+{\listtext\pard\fi-360\li720\sa160\bullet 	}\pard\plain{\ltrpar\ql\fi-360\li720\sa160{\*\abilist\abilistid130\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle None}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls28\ilvl0\sl277\slmult1\itap0\tx720{\f0\fs24\b\lang1033{\*\listtag0}Numerical Features}{\f0\fs24\lang1033{\*\listtag0}: Impute using mean, median, or predictive models.}{\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\fi-360\li720\sa160\bullet 	}\pard\plain{\ltrpar\ql\fi-360\li720\sa160{\*\abilist\abilistid130\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle None}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls28\ilvl0\sl277\slmult1\itap0\tx720{\f0\fs24\b\lang1033{\*\listtag0}Categorical Features}{\f0\fs24\lang1033{\*\listtag0}: Impute with mode or create an "Unknown" category.}{\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\fi-360\li720\sa160\bullet 	}\pard\plain{\ltrpar\ql\fi-360\li720\sa160{\*\abilist\abilistid130\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle None}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls28\ilvl0\sl277\slmult1\itap0\tx720{\f0\fs24\lang1033{\*\listtag0}Use SimpleImputer or fillna() for basic imputation.}{\f0\fs24\lang1033{\*\listtag0}\par}
+}\pard\plain\ltrpar\ql\li720\sa160\sl277\slmult1\itap0{\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\b\lang1033{\*\listtag0}b. Encoding Categorical Variables}{\f0\fs24\b\lang1033{\*\listtag0}\par}
+{\listtext\pard\fi-360\li720\sa160\bullet 	}\pard\plain{\ltrpar\ql\fi-360\li720\sa160{\*\abilist\abilistid150\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle None}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls46\ilvl0\sl277\slmult1\itap0\tx720{\f0\fs24\b\lang1033{\*\listtag0}One-Hot Encoding}{\f0\fs24\lang1033{\*\listtag0}: Convert categorical variables into binary indicators.}{\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\fi-360\li720\sa160\bullet 	}\pard\plain{\ltrpar\ql\fi-360\li720\sa160{\*\abilist\abilistid150\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle None}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls46\ilvl0\sl277\slmult1\itap0\tx720{\f0\fs24\b\lang1033{\*\listtag0}Label Encoding}{\f0\fs24\lang1033{\*\listtag0}: Assign numerical codes to categories (use carefully).}{\f0\fs24\lang1033{\*\listtag0}\par}
+}\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\b\lang1033{\*\listtag0}3. Model Building}{\f0\fs24\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\b\lang1033{\*\listtag0}a. Building the Logistic Regression Model}{\f0\fs24\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\lang1033{\*\listtag0}Logistic Regression is a supervised learning algorithm used for binary classification. It predicts the probability of a binary outcome using the logistic (sigmoid) function.}{\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\b\lang1033{\*\listtag0}b. Training the Model}{\f0\fs24\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\lang1033{\*\listtag0}Using libraries like scikit-learn, the model is trained on a portion of the data (X_train, y_train) and tested on unseen data (X_test, y_test) to evaluate performance.}{\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\b\lang1033{\*\listtag0} 4. Model Evaluation}{\f0\fs24\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\b\lang1033{\*\listtag0}Evaluation Metrics}{\f0\fs24\b\lang1033{\*\listtag0}\par}
+{\listtext\pard\fi-360\li720\sa160\bullet 	}\pard\plain{\ltrpar\ql\fi-360\li720\sa160{\*\abilist\abilistid120\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle None}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls19\ilvl0\sl277\slmult1\itap0\tx720{\f0\fs24\b\lang1033{\*\listtag0}Accuracy}{\f0\fs24\lang1033{\*\listtag0}: Overall percentage of correct predictions.}{\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\fi-360\li720\sa160\bullet 	}\pard\plain{\ltrpar\ql\fi-360\li720\sa160{\*\abilist\abilistid120\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle None}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls19\ilvl0\sl277\slmult1\itap0\tx720{\f0\fs24\b\lang1033{\*\listtag0}Precision}{\f0\fs24\lang1033{\*\listtag0}: Proportion of predicted positives that are actual positives.}{\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\fi-360\li720\sa160\bullet 	}\pard\plain{\ltrpar\ql\fi-360\li720\sa160{\*\abilist\abilistid120\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle None}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls19\ilvl0\sl277\slmult1\itap0\tx720{\f0\fs24\b\lang1033{\*\listtag0}Recall (Sensitivity)}{\f0\fs24\lang1033{\*\listtag0}: Proportion of actual positives that are correctly predicted.}{\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\fi-360\li720\sa160\bullet 	}\pard\plain{\ltrpar\ql\fi-360\li720\sa160{\*\abilist\abilistid120\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle None}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls19\ilvl0\sl277\slmult1\itap0\tx720{\f0\fs24\b\lang1033{\*\listtag0}F1-Score}{\f0\fs24\lang1033{\*\listtag0}: Harmonic mean of precision and recall.}{\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\fi-360\li720\sa160\bullet 	}\pard\plain{\ltrpar\ql\fi-360\li720\sa160{\*\abilist\abilistid120\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle None}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls19\ilvl0\sl277\slmult1\itap0\tx720{\f0\fs24\b\lang1033{\*\listtag0}ROC-AUC Score}{\f0\fs24\lang1033{\*\listtag0}: Measures the area under the ROC curve; higher is better.}{\f0\fs24\lang1033{\*\listtag0}\par}
+}\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\b\lang1033{\*\listtag0}ROC Curve}{\f0\fs24\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\lang1033{\*\listtag0}The ROC curve plots the }{\f0\fs24\b\lang1033{\*\listtag0}True Positive Rate}{\f0\fs24\lang1033{\*\listtag0} against the }{\f0\fs24\b\lang1033{\*\listtag0}False Positive Rate}{\f0\fs24\lang1033{\*\listtag0}. A model with good predictive power will have a curve closer to the top-left corner.}{\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\b\lang1033{\*\listtag0} 5. Interpretation}{\f0\fs24\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\b\lang1033{\*\listtag0}a. Coefficients Interpretation}{\f0\fs24\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\lang1033{\*\listtag0}In logistic regression, each feature has a coefficient:}{\f0\fs24\lang1033{\*\listtag0}\par}
+{\listtext\pard\fi-360\li720\sa160\bullet 	}\pard\plain{\ltrpar\ql\fi-360\li720\sa160{\*\abilist\abilistid140\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle None}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls37\ilvl0\sl277\slmult1\itap0\tx720{\f0\fs24\b\lang1033{\*\listtag0}Positive Coefficient}{\f0\fs24\lang1033{\*\listtag0}: Increases the log-odds of the target being 1.}{\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\fi-360\li720\sa160\bullet 	}\pard\plain{\ltrpar\ql\fi-360\li720\sa160{\*\abilist\abilistid140\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle None}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls37\ilvl0\sl277\slmult1\itap0\tx720{\f0\fs24\b\lang1033{\*\listtag0}Negative Coefficient}{\f0\fs24\lang1033{\*\listtag0}: Decreases the log-odds.}{\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\fi-360\li720\sa160\bullet 	}\pard\plain{\ltrpar\ql\fi-360\li720\sa160{\*\abilist\abilistid140\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle None}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls37\ilvl0\sl277\slmult1\itap0\tx720{\f0\fs24\lang1033{\*\listtag0}Coefficients can be exponentiated to get the }{\f0\fs24\b\lang1033{\*\listtag0}odds ratio}{\f0\fs24\lang1033{\*\listtag0}.}{\f0\fs24\lang1033{\*\listtag0}\par}
+}\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\b\lang1033{\*\listtag0}b. Feature Significance}{\f0\fs24\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\lang1033{\*\listtag0}The magnitude and sign of the coefficients indicate feature importance:}{\f0\fs24\lang1033{\*\listtag0}\par}
+{\listtext\pard\fi-360\li720\sa160\bullet 	}\pard\plain{\ltrpar\ql\fi-360\li720\sa160{\*\abilist\abilistid180\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle None}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls73\ilvl0\sl277\slmult1\itap0\tx720{\f0\fs24\lang1033{\*\listtag0}Larger absolute values \uc0\u8594  more influence on the target.}{\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\fi-360\li720\sa160\bullet 	}\pard\plain{\ltrpar\ql\fi-360\li720\sa160{\*\abilist\abilistid180\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle None}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls73\ilvl0\sl277\slmult1\itap0\tx720{\f0\fs24\lang1033{\*\listtag0}Statistically significant coefficients (low p-values) imply strong evidence that the feature affects the target.}{\f0\fs24\lang1033{\*\listtag0}\par}
+}\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\b\lang1033{\*\listtag0} 6. Deployment with Streamlit}{\f0\fs24\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\b\lang1033{\*\listtag0}Local Deployment Steps:}{\f0\fs24\b\lang1033{\*\listtag0}\par}
+{\listtext\pard\fi-360\li720\sa160  	}\pard\plain{\ltrpar\ql\fi-360\li720\sa160{\*\abilist\abilistid100\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle None}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-360\li720\ls1\ilvl0\sl277\slmult1\itap0\tx720{\f0\fs24\lang1033{\*\listtag0}Save the model using pickle.}{\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\fi-360\li720\sa160  	}\pard\plain{\ltrpar\ql\fi-360\li720\sa160{\*\abilist\abilistid100\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle None}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-360\li720\ls1\ilvl0\sl277\slmult1\itap0\tx720{\f0\fs24\lang1033{\*\listtag0}Build a UI using Streamlit to accept user input.}{\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\fi-360\li720\sa160  	}\pard\plain{\ltrpar\ql\fi-360\li720\sa160{\*\abilist\abilistid100\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle None}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-360\li720\ls1\ilvl0\sl277\slmult1\itap0\tx720{\f0\fs24\lang1033{\*\listtag0}Load the model and scaler.}{\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\fi-360\li720\sa160  	}\pard\plain{\ltrpar\ql\fi-360\li720\sa160{\*\abilist\abilistid100\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle None}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-360\li720\ls1\ilvl0\sl277\slmult1\itap0\tx720{\f0\fs24\lang1033{\*\listtag0}Display prediction results.}{\f0\fs24\lang1033{\*\listtag0}\par}
+}\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\b\lang1033{\*\listtag0}Online Deployment (Optional):}{\f0\fs24\b\lang1033{\*\listtag0}\par}
+{\listtext\pard\fi-360\li720\sa160\bullet 	}\pard\plain{\ltrpar\ql\fi-360\li720\sa160{\*\abilist\abilistid1100\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle None}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls91\ilvl0\sl277\slmult1\itap0\tx720{\f0\fs24\lang1033{\*\listtag0}Host the project on GitHub.}{\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\fi-360\li720\sa160\bullet 	}\pard\plain{\ltrpar\ql\fi-360\li720\sa160{\*\abilist\abilistid1100\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle None}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls91\ilvl0\sl277\slmult1\itap0\tx720{\f0\fs24\lang1033{\*\listtag0}Deploy on Streamlit Community Cloud.}{\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\fi-360\li720\sa160\bullet 	}\pard\plain{\ltrpar\ql\fi-360\li720\sa160{\*\abilist\abilistid1100\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle None}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls91\ilvl0\sl277\slmult1\itap0\tx720{\f0\fs24\lang1033{\*\listtag0}Follow official documentation for setup.}{\f0\fs24\lang1033{\*\listtag0}\par}
+}\pard\plain\ltrpar\ql\sa160\sl277\slmult1\itap0{\f0\fs24\lang1033{\*\listtag0}\par}}
